@@ -135,3 +135,10 @@ Additionally, verify that Java is installed and configured correctly, as Apache 
 ---
 
 **End of P1.2 - Command Line Essentials**
+---
+
+## Git Practice
+
+This section was added while working on the `feature/update-notes` branch.
+
+Git allows developers to create separate branches to work on changes without directly modifying the main branch. These changes can be reviewed through a Pull Request before being merged into the main branch.
